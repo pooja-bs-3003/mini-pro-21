@@ -127,4 +127,15 @@ Modules & Packages used are :
 
 4. PICKLE
 
-   
+
+
+
+## HOW THIS WEBSITE IS USEFUL FOR USERS ?
+
+- For any dataset the user can train either **classification** or **regression** model based on dataset they give.
+
+<img src="https://www.macmillandictionaryblog.com/wp-content/uploads/2017/07/emoji-1024x650.jpg" alt="What is an Emoji? | Macmillan Dictionary Blog" style="zoom:25%;" />
+
+- This website helps users to check which algorithm to be used to train the model that gives better accuracy by trial & error method.
+- User might have already created projects & trained model , then for trained model the user can give new data & check the perfomance of the model.
+
